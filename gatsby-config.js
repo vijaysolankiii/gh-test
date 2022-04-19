@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix:"/gh-test",
+  pathPrefix: "/gh-test",
   siteMetadata: {
     title: `gh-test`,
     siteUrl: `https://vcard.indiandigicard.com`,
@@ -8,7 +8,7 @@ module.exports = {
     `gatsby-plugin-image`,
     `gatsby-plugin-sharp`,
     `gatsby-transformer-sharp`,
-    "gatsby-plugin-use-query-params",
+    `gatsby-plugin-use-query-params`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -22,5 +22,9 @@ module.exports = {
         icon: "src/images/icon.png",
       },
     },
+    {
+      resolve: `gatsby-plugin-create-client-paths`,
+      options: { prefixes: [`/cardpreview/*`] },
+    },
   ],
-}
+};
