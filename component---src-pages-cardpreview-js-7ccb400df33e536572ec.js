@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgh_test=self.webpackChunkgh_test||[]).push([[801],{898:function(e,t,u){u.r(t);var n=u(7294),r=u(9499),a=u(6566);t.default=function(){return n.createElement(r.Router,null,n.createElement(a.Z,{path:"cardpreview/:slug"}))}}}]);
+//# sourceMappingURL=component---src-pages-cardpreview-js-7ccb400df33e536572ec.js.map

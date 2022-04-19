@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgh_test=self.webpackChunkgh_test||[]).push([[678],{6558:function(e,t,n){n.r(t);var u=n(7294);t.default=function(){return u.createElement("h1",null,"Home Page")}}}]);
-//# sourceMappingURL=component---src-pages-index-js-50fd886d25a19b918ac1.js.map

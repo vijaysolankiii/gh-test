@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-index-js-50fd886d25a19b918ac1.js","mappings":"4HAQA,UANkB,WAChB,OACC","sources":["webpack://gh-test/./src/pages/index.js"],"sourcesContent":["import React from 'react'\n\nconst IndexPage = () => {\n  return (\n   <h1>Home Page</h1>\n  )\n}\n\nexport default IndexPage"],"names":[],"sourceRoot":""}
